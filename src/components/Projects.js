@@ -32,13 +32,13 @@ export const projects = () => {
     <div>
       <h2>Projects:</h2>
       {
-        myProjects.map((eachProject) => {
+        myProjects.map((project) => {
           return (
-            <div key={eachProject.id} className="project">
+            <div key={project.id} className="project">
               <h3>
-                {eachProject.name}
+                {project.name}
               </h3>
-              <h4>{eachProject.technologies}</h4>
+              <h4>{project.technologies}</h4>
             </div>
           )
       })}
