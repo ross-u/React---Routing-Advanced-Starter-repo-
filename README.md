@@ -1,6 +1,7 @@
-# React | Intro to Routing
+# React |  Routing Advanced
 
-## [IronHack - React Routing](http://learn.ironhack.com/#/learning_unit/7698)
+## [IronHack - React Routing Advanced](http://learn.ironhack.com/#/learning_unit/7699)
+
 
 ## Extra Resources
 

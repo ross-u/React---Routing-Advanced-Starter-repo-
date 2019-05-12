@@ -34,12 +34,11 @@ export const projects = () => {
       {
         myProjects.map((eachProject) => {
           return (
-            <div key={eachProject.id}>
+            <div key={eachProject.id} className="project">
               <h3>
                 {eachProject.name}
               </h3>
               <h4>{eachProject.technologies}</h4>
-              <hr />
             </div>
           )
       })}
