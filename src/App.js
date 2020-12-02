@@ -6,8 +6,8 @@ import Dashboard from './pages/Dashboard';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Error from './pages/Error';
-import Navbar from './pages/Navbar';
-import { Projects } from './pages/Projects';
+import Navbar from './components/Navbar';
+import Projects from './pages/Projects';
 
 import './App.css';
 
